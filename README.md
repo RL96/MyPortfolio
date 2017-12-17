@@ -1,2 +1,2 @@
 # MyPortfolio
-My portfolio site
+My portfolio site developed in home.
